@@ -163,6 +163,15 @@ html>body #wrapper {
   padding-bottom: 5px;
 }
 
+.leftside_image {
+  float: left;
+  margin-right: 15px;
+  margin-bottom: 5px;
+  text-align: center;
+  font-size: 0.8em;
+  font-style: italic;
+}
+
 #colOne {
 	float: right;
 	width: 500px;
